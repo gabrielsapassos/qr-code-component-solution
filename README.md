@@ -31,5 +31,5 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Gabriel Santana](https://www.your-site.com)
+- Website - [Gabriel Santana](https://github.com/gabrielsapassos)
 - Frontend Mentor - [@gabrielsapassos](https://www.frontendmentor.io/profile/gabrielsapassos)
